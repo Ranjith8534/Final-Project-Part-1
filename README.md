@@ -1,5 +1,5 @@
-# Final Project Part 1 : Optimization Technique and Implementation Project Report
-### Ranjith Kumar Bollam  
+## Final Project Part 1 : Optimization Technique and Implementation Project Report
+### NAME: Ranjith Kumar Bollam  
 ### Course: MSCS 532 – Algorithms and Data Structures  
 ---
 
