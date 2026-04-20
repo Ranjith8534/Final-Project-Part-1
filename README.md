@@ -8,7 +8,6 @@ Ranjith Kumar Bollam
 ### Course:
 MSCS 532 – Algorithms and Data Structures  
 
----
 
 ## Project Overview
 This project explores data locality optimization in high-performance computing (HPC). It demonstrates how memory access patterns affect performance using different data structures.
